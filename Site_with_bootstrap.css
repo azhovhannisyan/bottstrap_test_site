@@ -1,0 +1,143 @@
+#header{
+    background: white;
+    border: transparent;
+    color:rgb(184,184,184);
+}
+.navbar-default .navbar-nav>.active>a:hover{
+    background-color: transparent;
+    color:rgb(101,201,177);
+}
+.navbar-default .navbar-nav>.active>a{
+    background-color: transparent;
+    color:rgb(101,201,177);
+}
+.navbar-brand{
+    font-family: cursive;
+}
+#bg_image{
+    background-image: url("http://www.walldevil.com/wallpapers/a78/sunrise-forest-grass-tree.jpg");
+    background-position: top;
+}
+#info_text{
+   margin-top: 5%;
+}
+.welcome{
+    color:white;
+    background: rgb(2,39,47);
+    display: inline-block;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.check{
+    color:white;
+    display: inline-block;
+    padding: 5px;
+    margin-top: 10px;
+    border: 2px solid white;
+    cursor: pointer;
+}
+#devices{    
+    height: 300px;
+}
+#circles{
+  padding:  20px;
+}
+.round{
+    margin: auto;
+    width: 140px;
+    height: 140px;
+    text-align: center;
+    padding: 10px 0px;
+    border: 1px solid grey;
+    border-radius: 50%;
+    color:gray;
+    font-size: 80px;
+}
+.desc_text{
+    text-align: center;
+    color: gray;
+}
+#hr_line{
+    padding: 10px;
+}
+#hr_line span{
+    color:rgb(111,111,111); 
+    padding: 5px;
+}
+.next_prev{
+    float: right;
+}
+.thumbnail:hover{
+    border-bottom: 2px solid rgb(101,201,177)
+}
+.thumbnail{
+   cursor: pointer;
+}
+#call{
+    background:rgb(228,228,228)
+}
+#call .row{
+    padding: 40px;
+}
+#call span{
+    padding: 10px;
+    color:rgb(81,81,81);
+}
+#call button{
+    color: white;
+    background: rgb(101,201,177);
+    padding: 10px;
+}
+#twit{
+    background: rgb(101,201,177);
+    color: white;
+    padding: 15px;
+}
+#about{
+    padding: 20px;
+    background: rgb(52,52,52);
+    color: rgb(209,209,209);
+}
+.my_panel,.list-group,.list-group-item{
+    background: transparent;
+    border:none;
+}
+.panel-heading{
+    display: inline-block;
+    border-bottom: 1px solid rgb(64,64,64);
+}
+.list-group-item{
+    border-top: 2px solid rgb(54,54,54);
+    cursor: pointer;
+}
+.list-group-item:hover{
+    color:rgb(101,201,177);
+}
+.tags{
+    display: inline-block;
+    float: left;
+    padding: 5px;
+    border: 2px solid rgb(54,54,54);
+    margin-left: 2px;
+    cursor: pointer;
+}
+.tags:hover{
+   border: 2px solid rgb(101,201,177); 
+}
+#products img{
+    max-width: 20%;
+    margin: 2px;
+    border: 1px solid transparent;
+}
+#products img:hover{
+      border: 1px solid rgb(101,201,177);
+}
+#footer{
+    background: rgb(42,42,42);
+    color: rgb(148,148,148);
+    padding: 10px;
+}
+
+
+
+
